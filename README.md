@@ -1,0 +1,2 @@
+# Classification-Of-Cars-Using-Different-Algorithms.
+In this project we have done Classification of cars using different algorithms. These algorithms include : 1) Basic Decision Tree.  2) Tunned Decision Tree.   3) Basic SVM.   4) Tunned SVM.  5) KNN.   6) Logistic Regression.  7) Basic ExtraTreesClassifier.  8) Tunned ExtraTreesClassifier.  9) RandomForestClassifier.   10) AdaBoostClassifier.  11) GradientBoostingClassifier . 12) Basic Ensemble Model.   13) Ensemble model by removing Logistic regression.  14) Ensemble model by removing logistic regression and KNN. 
